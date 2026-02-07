@@ -38,5 +38,3 @@ Receiver:
 - High signal integrity across long distances
 - Robust RF packet handling
 - Precise PWM and SBUS signal timing
-
-## Folder Structure
